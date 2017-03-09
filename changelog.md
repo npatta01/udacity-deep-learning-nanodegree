@@ -1,11 +1,13 @@
 # March 9, 2017
-Set bias to zero instead of truncated normal dist
-reduce fully connected weights stdev from 0.1 to 0.05
-added relu to fully connected layer
+make output function linear
+
+Set bias to zero instead of truncated normal dist     
+reduce fully connected weights stdev from 0.1 to 0.05    
+added relu to fully connected layer     
 
 # March 8, 2017
-Submitted initial version of project 2..
-62% accuracy
+Submitted initial version of project 2..    
+62% accuracy     
 
 
 # Feb 7,2017
