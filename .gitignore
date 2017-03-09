@@ -2,3 +2,4 @@
 *.idea
 ._*.html
 ._*.ipynb
+.DS_Store

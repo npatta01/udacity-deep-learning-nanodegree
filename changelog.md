@@ -1,3 +1,7 @@
+# March 8, 2017
+Submitted initial version of project 2..
+62% accuracy 
+
 
 # Feb 7,2017
 Based on feedback of project 1:
@@ -6,4 +10,4 @@ Based on feedback of project 1:
 - reduced epochs from 12000 to 8000
 - rearranged the calculation of weights_hidden_to_output, weights_input_to_hidden
 # Feb 5,2017
-Submitted initial version of project 1 
+Submitted initial version of project 1
