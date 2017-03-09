@@ -3,3 +3,4 @@
 ._*.html
 ._*.ipynb
 .DS_Store
+__pycache__
