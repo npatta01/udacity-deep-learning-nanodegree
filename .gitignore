@@ -4,3 +4,6 @@
 ._*.ipynb
 .DS_Store
 __pycache__
+*/._*
+.floydexpt
+.floydignore

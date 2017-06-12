@@ -1,3 +1,7 @@
+# June 11, 2017
+project 3 submission      
+training loss of 0.669      
+
 # March 9, 2017
 make output function linear
 
